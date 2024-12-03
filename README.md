@@ -79,14 +79,3 @@ The following helper functions are included in the implementation:
    - Returns `0` for a draw.
 
 ---
-
-## **Task to Implement**
-
-### **Alpha-Beta Pruning**
-Implement the function:
-```python
-def alpha_beta_pruning(board):
-    """
-    Returns the optimal action for the current player on the board.
-    """
-    pass
